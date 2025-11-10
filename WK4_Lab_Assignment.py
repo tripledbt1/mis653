@@ -11,6 +11,8 @@
 
 
 # Week 4 Lab: Lists, Strings, and Tuples
+import datetime
+print("Run time:", datetime.datetime.now())
 
 # Define a string, list, and tuple
 my_string = "Hello, GitHub!"          # A basic string
